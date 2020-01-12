@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ListView with Images</string>
+
+    <string-array name="Members">
+        <item>Person 1</item>
+        <item>Person 2</item>
+        <item>Person 3</item>
+    </string-array>
+
+    <string-array name="ProfilePics">
+        <item>@drawable/img1</item>
+        <item>@drawable/img2</item>
+        <item>@drawable/img3</item>
+    </string-array>
+
+    <string-array name="Type">
+        <item>Friend</item>
+        <item>Close Friend</item>
+        <item>Relative</item>
+    </string-array>
+
+
+</resources>
