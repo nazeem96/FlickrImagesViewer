@@ -1,7 +1,6 @@
 package com.mohamednazeem.listviewwithimages;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class ListItem extends AppCompatActivity {

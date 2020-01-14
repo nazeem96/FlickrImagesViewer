@@ -16,24 +16,11 @@ public class RowItem {
     public String getUserId() {
         return userId;
     }
-
-    public void setUserId(String userId) {
-        this.userId = userId;
-    }
-
     public Bitmap getPic() {
         return pic;
     }
-
-    public void setPic(Bitmap pic) {
-        this.pic = pic;
-    }
-
     public String getTitle() {
         return title;
     }
 
-    public void setTitle(String title) {
-        this.title = title;
-    }
 }
